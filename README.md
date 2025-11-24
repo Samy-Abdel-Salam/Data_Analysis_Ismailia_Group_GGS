@@ -16,3 +16,7 @@
 # Power BI File:
 ## Power BI File:
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/GGS%20V1.0.pbix"> Power BI File </a>
+# Proposal File:
+## Proposal File:
+<a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/Final%20Project%20Proposal%20Form%20Ismailia%20G1_2025.docx"> Proposal File </a>
+
