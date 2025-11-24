@@ -1,4 +1,4 @@
-Graduation Project Proposal Form
+# Graduation Project - DEPI - 2025
 - Project Information
 - Project Title: Gas Gap Solutions
 - Course/Track: Data Analysis - NXT2_ONL3_DAT1_G3
