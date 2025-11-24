@@ -27,4 +27,4 @@
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/GGS.mp4"> Presentation File </a>
 # Illustration Files:
 ## Illustration Files:
-<a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/GGS.mp4"> Presentation File </a>
+<a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/tree/main/Illustrations"> Illustration File </a>
