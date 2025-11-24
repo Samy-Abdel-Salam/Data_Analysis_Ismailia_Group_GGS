@@ -11,24 +11,24 @@
 6.	Mahmoud Ebraik Abdou
 7.	Mohamed Nasser Mohamed
 # Datasets:
-## Datasets:
+
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/Gas%20Gap%20Solutions%20Power%20BI.xlsx"> Datasets </a>
 # Power BI File:
-## Power BI File:
+
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/GGS%20V1.0.pbix"> Power BI File </a>
 # Proposal File:
-## Proposal File:
+
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/Final%20Project%20Proposal%20Form%20Ismailia%20G1_2025.docx"> Proposal File </a>
 # Presentation File:
-## Presentation File:
+
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/Gas%20Gap%20Solutions%20v1.0.pptx"> Presentation File </a>
 # Video File:
-## Video File:
+
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/blob/main/GGS.mp4"> Video File </a>
 # Illustration Files:
-## Illustration Files:
+
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/tree/main/Illustrations"> Illustration File </a>
 # Screen shots Files:
-## Screen shots Files:
+
 <a href="https://github.com/Samy-Abdel-Salam/Data_Analysis_Ismailia_Group_GGS/tree/main/Dash%20Board%20Shots"> Screen shots Files </a>
 
